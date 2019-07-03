@@ -32,8 +32,6 @@ The final notebook:
 
 ![Weather](Images/Max_Temp.png)
 
-![Weather](Images/Wind%Speed.png)
-
 Note:
 
 * This analysis is completed using a Jupyter notebook.
